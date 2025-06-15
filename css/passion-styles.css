@@ -1,6 +1,6 @@
 /* General Body Styling */
 body {
-    font-family: 'Poppins', sans-serif; /* Fun, clean font */
+    font-family: 'Poppins', sans-serif; /* Clean font */
     margin: 0;
     padding: 0;
     background-color: #f0e0e0; /* Soft pink background */
@@ -90,10 +90,10 @@ ul li {
 
 /* Gallery Section Styling */
 #gallery {
-    text-align: center; /* Centers the images horizontally */
-    width: 100%; /* Makes sure the gallery container takes the full width */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Box shadow for subtle depth */
-    border-radius: 10px; /* Rounded corners for the container */
+    text-align: center; /* Centers images horizontally */
+    width: 100%; /* Makes sure gallery container takes the full width */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+    border-radius: 10px; /* Rounded corners for container */
 }
 
 /* Image Styling */
@@ -108,7 +108,7 @@ ul li {
 }
 
 /* YouTube Video Section Styling */
-#favorite-ballet iframe {
+#favorite-vlog iframe {
     width: 80%; /* Adjust width */
     height: 400px; /* Fixed height for consistency */
     border: none;
